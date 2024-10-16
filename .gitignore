@@ -1,1 +1,3 @@
 venv
+text_classification/logs
+text_classification/bert_model_googl.weights.h5
