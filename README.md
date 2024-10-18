@@ -3,4 +3,4 @@ The image processing notebook shows basic tasks, such as image deskewing or bina
 Text recognition, evaluation of its quality and post-corrections using hand-crafted rules or a BERT model are shown in the OCR notebook.
 The recognized text is subsequently classified, either using linguistic features (such as TF-IDF) or more powerful BERT-based models.
 A named entity recognition model is trained and applied on the example of extracting job titles from job advertisements.
-The data visualition notebook shows a basic frequencies analysis of the extracted position.
+The data visualisation notebook shows a basic frequencies analysis of the extracted position.
